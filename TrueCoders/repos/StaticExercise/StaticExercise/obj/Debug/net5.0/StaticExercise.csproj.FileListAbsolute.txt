@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.deps.json
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.json
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.dll
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/ref/StaticExercise.dll
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.pdb
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.dll
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/ref/StaticExercise.dll
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.pdb
+/Users/patsmith/TrueCoders/repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.genruntimeconfig.cache
